@@ -1,6 +1,10 @@
 # Radar_Camera_MOT
 Code for our paper: Radar-Camera Fused Multi-Object Tracking Based On Online Calibration and Common Feature
 
+## Video Results
+![Demo Video](https://github.com/radar-lab/Radar_Camera_MOT/blob/main/Figures/MOT_Video_RES.gif)
+
+
 ## High-Resolution Figures of our Paper
 ### Fig. 1: Visualization of Errors Caused By Pitch Angle Change
 
