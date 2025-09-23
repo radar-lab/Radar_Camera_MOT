@@ -24,7 +24,6 @@ Note that you should use the **`calibration.py`** in the folder **`/Calibration_
 ### 3. Radar-Camera Fused MOT
 After obtaining the calibration matrix, you can now use **`sensorfusion_tracking.py`** in the folder **`/Radar_Camera_Fused_Object_Tracking`** to do the object tracking.
 
-Note that you will need to unzip **`common_features_for_tracking.rar`** first so you can use it.
 
 
 
