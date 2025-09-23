@@ -21,6 +21,24 @@ After training the Common Feature Discriminator, you can now use **`camera_to_ra
 
 Note that you should use the **`calibration.py`** in the folder **`/Calibration_based_on_Common_Features`** first to collect the point pairs between the radar and camera by using common feats, before you can do the calibration.
 
+There are more video demos about our calibration performance, which you may refer to [our Calibration-related GitHub repository](https://github.com/radar-lab/Online-Targetless-Radar-Camera-Extrinsic-Calibration)
+#### Calibration Demo video
+<table>
+  <tr>
+    <td>
+      <a href="https://www.youtube.com/watch?v=FaFU3wxIb5g">
+        <img src="https://img.youtube.com/vi/FaFU3wxIb5g/0.jpg" width="460">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=_WVRrnrLCVU">
+        <img src="https://img.youtube.com/vi/_WVRrnrLCVU/0.jpg" width="460">
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 ### 3. Radar-Camera Fused MOT
 After obtaining the calibration matrix, you can now use **`sensorfusion_tracking.py`** in the folder **`/Radar_Camera_Fused_Object_Tracking`** to do the object tracking.
 
