@@ -14,7 +14,7 @@
 
 ---
 
-## Contributors
+## 🧑‍🤝‍🧑 Contributors
 
 <a href="https://github.com/radar-lab/Radar_Camera_MOT/graphs/contributors">
   <img alt="Contributors" src="https://contrib.rocks/image?repo=radar-lab/Radar_Camera_MOT" />
@@ -23,16 +23,16 @@
 ---
 
 ## 📧 Contact
-- **Author**: [Lei Cheng](https://github.com/leicheng5)  
-- **Lab**: [Radar-Lab](https://github.com/radar-lab)  
+- 🧑‍💻 **Author**: [Lei Cheng](https://github.com/leicheng5)  
+- 🏫 **Lab**   : [Radar-Lab](https://github.com/radar-lab)  
 
-## I. Abstract
+## 🎯 I. Abstract
 This paper presents a Multi-Object Tracking (MOT) framework that fuses radar and camera data to enhance tracking efficiency while minimizing manual interventions. Contrary to many studies that underutilize radar and assign it a supplementary role—despite its capability to provide accurate range/depth information of targets in a world 3D coordinate system—our approach positions radar in a crucial role. Meanwhile, this paper utilizes common features to enable online calibration to autonomously associate detections from radar and camera. The main contributions of this work include: (1) the development of a radar-camera fusion MOT framework that exploits online radar-camera calibration to simplify the integration of detection results from these two sensors, (2) the utilization of common features between radar and camera data to accurately derive real-world positions of detected objects, and (3) the adoption of feature matching and category-consistency checking to surpass the limitations of mere position matching in enhancing sensor association accuracy. To the best of our knowledge, we are the first to investigate the integration of radar-camera common features and their use in online calibration for achieving MOT. The efficacy of our framework is demonstrated by its ability to streamline the radar-camera mapping process and improve tracking precision, as evidenced by real-world experiments conducted in both controlled environments and actual traffic scenarios.
 <p align="center">
   <img src="https://github.com/radar-lab/Radar_Camera_MOT/blob/main/Figures/Fig.3.png" width="90%">
 </p>
 
-## II. Video Results
+## 🎥 II. Video Results
 ![Demo Video](https://github.com/radar-lab/Radar_Camera_MOT/blob/main/Figures/MOT_Video_RES.gif)
 
 
@@ -114,7 +114,7 @@ to perform **object tracking**.
 
 
 ---
-## 📌 IV. High-Resolution Figures of our Paper
+## 🖼️ IV. High-Resolution Figures of our Paper
 
 ### Fig. 1: Visualization of Errors Caused By Pitch Angle Change
 
