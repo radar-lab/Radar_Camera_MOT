@@ -74,7 +74,7 @@ After obtaining the calibration matrix, you can now use **`sensorfusion_tracking
 ### Fig. 5: Example Frames Demonstrating Multi-Object Tracking Results of The Proposed Method
 
 <center>
-  <img src="https://github.com/radar-lab/Radar_Camera_MOT/blob/main/Figures/Fig.5.png" width=55% />
+  <img src="https://github.com/radar-lab/Radar_Camera_MOT/blob/main/Figures/Fig.5.png" width=45% />
 </center>
 
 ### Fig. 6: Test results using the Common Feature Discriminator
@@ -104,11 +104,11 @@ After obtaining the calibration matrix, you can now use **`sensorfusion_tracking
 ### Fig. 10: Calibration Results For Three Different Scenarios
 
 <center>
-  <img src="https://github.com/radar-lab/Radar_Camera_MOT/blob/main/Figures/Fig.10.png" width=55% />
+  <img src="https://github.com/radar-lab/Radar_Camera_MOT/blob/main/Figures/Fig.10.png" width=45% />
 </center>
 
 ### Fig. 12: Sensor Fusion Results for Person in Scenario 3 with Camera, Radar, and Radar-then-Camera Failed, Respectively.
 
 <center>
-  <img src="https://github.com/radar-lab/Radar_Camera_MOT/blob/main/Figures/Fig.12.png" width=55% />
+  <img src="https://github.com/radar-lab/Radar_Camera_MOT/blob/main/Figures/Fig.12.png" width=45% />
 </center>
