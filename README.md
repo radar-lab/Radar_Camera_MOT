@@ -7,7 +7,10 @@
   <img src="https://img.shields.io/github/stars/radar-lab/Radar_Camera_MOT?style=social" alt="GitHub Repo stars"/>
   <img src="https://img.shields.io/github/forks/radar-lab/Radar_Camera_MOT?style=social" alt="GitHub forks"/>
   <img src="https://img.shields.io/github/last-commit/radar-lab/Radar_Camera_MOT" alt="GitHub last commit"/>
-  <a href="http://arxiv.org/abs/xxxx.xxxxx">
+  <a href="https://ieeexplore.ieee.org/document/11223963">
+    <img src="https://img.shields.io/badge/IEEE-Published-blue.svg" alt="IEEE"/>
+  </a>
+  <a href="https://arxiv.org/abs/2510.20794">
     <img src="https://img.shields.io/badge/arXiv-preprint-b31b1b.svg" alt="arXiv"/>
   </a>
 </p>
